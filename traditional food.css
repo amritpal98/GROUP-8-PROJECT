@@ -1,0 +1,57 @@
+*
+{
+    margin:0px;
+    padding: 0px;
+}
+.foodform
+{
+    background-color:#999999;
+    width: 100%;
+    margin=auto;
+}
+.dark
+{
+    background-color: #31353d;
+    color:white;
+}
+.light
+{
+    background-color: #e9edf2;
+}
+#top_left
+{
+    display:inline-block;
+    border:1px solid red;
+}
+#top_right
+{
+    float:right;
+}
+#top_div
+{
+    height:40px;
+}
+#v
+{
+    margin-left: 2000px;
+    padding-left: 500px;
+}
+#i
+{
+    margin-left: 300px;
+}
+.s
+{
+    background-color: lightblue; 
+}
+.h1{
+    font-size: 150px;
+}
+body
+{
+    background-color: skyblue;
+}
+td
+{
+    text-align: center;
+}
