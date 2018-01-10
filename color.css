@@ -1,0 +1,17 @@
+body
+{
+    background-color: skyblue;
+}
+
+   #top_left
+{
+    display:inline-block;
+    border:1px solid red;
+}
+#top_right
+{
+    float:right;
+}
+.form1{
+    margin-left:750px;
+}
